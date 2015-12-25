@@ -1,0 +1,5 @@
+.idea/
+classpass-smartspot.iml
+target/
+work/
+dependency-reduced-pom.xml
